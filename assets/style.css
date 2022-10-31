@@ -8,25 +8,32 @@
 }
 
 .body-color {
-  background-color: #A4F24B;
+  /* background-color: #871400; */
+  background-image: url(./img/layered-peaks-haikei.svg);
+    background-repeat: no-repeat;
+  background-size: cover;
 }
 
 form {
   width: 450px;
   min-width: 200px;
-  background-color: #4A7020;
+  background-color: #F5730A;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6)
 }
 
 .pw{
-  color:#3C7001
+  color:#F5730A
 }
 .pw-header {
-  background-color: #A4F24B;
+  background-color: #b0311a;
 }
 
 .copy-icon {
   width: 1.5rem;
+}
+
+#generate{
+  color: #b0311a;
 }
 
 .btn-copy:focus{
